@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-26T16:53:50.497335+08:00",
-  "total_titles_processed": 1371,
+  "generated_at": "2026-02-26T17:54:52.225353+08:00",
+  "total_titles_processed": 1481,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 37,
       "titles": [
-        {
-          "title": "伊朗媒体：伊朗提交谈判提案考验美国诚意",
-          "url": "https://wallstreetcn.com/livenews/3059447",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
         {
           "title": "中方正密切关注伊朗局势发展",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E6%AD%A3%E5%AF%86%E5%88%87%E5%85%B3%E6%B3%A8%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF%E5%8F%91%E5%B1%95",
@@ -25,9 +14,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时54分]"
+        },
+        {
+          "title": "白宫官员希望以色列先打击伊朗",
+          "url": "https://news.ifeng.com/c/8r3lr4eCVvP",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时54分]"
         },
         {
           "title": "美国国务卿鲁比奥：伊朗坚持不讨论弹道导弹是一个“非常非常严重的问题”。",
@@ -63,15 +63,15 @@
           "time_info": "07时35分"
         },
         {
-          "title": "白宫官员希望以色列先打击伊朗",
-          "url": "https://news.ifeng.com/c/8r3lr4eCVvP",
+          "title": "如美发动攻击，中俄会否联手支援伊朗？外交部回应",
+          "url": "https://news.ifeng.com/c/8r3mAyyc1El",
           "source": "凤凰网",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时53分"
+          "time_info": "17时54分"
         },
         {
           "title": "伊朗外长：伊朗已将导弹射程限制在2000公里以内",
@@ -105,6 +105,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "伊朗媒体：伊朗提交谈判提案考验美国诚意",
+          "url": "https://wallstreetcn.com/livenews/3059447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时54分]"
         },
         {
           "title": "伊朗外长会见阿曼外交大臣 伊美第三轮间接谈判开始",
@@ -149,7 +161,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -160,7 +172,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -218,6 +230,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗与美国在日内瓦启动第三轮间接核谈判。",
+          "url": "https://flash.jin10.com/detail/20260226171910670800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
+          "title": "如果美国对伊朗发动攻击，中国是否会和俄罗斯一道支持伊朗？外交部回应",
+          "url": "https://www.cls.cn/detail/2295813",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         },
         {
           "title": "美国国务卿鲁比奥：周四的伊朗会谈将主要聚焦核计划。",
@@ -281,9 +315,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
+        },
+        {
+          "title": "中方支持伊朗政府和人民维护国家稳定",
+          "url": "https://www.toutiao.com/trending/7610653794019885102/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         },
         {
           "title": "尽管白宫警告称伊朗可能在几天内就能生产武器级核材料，但核专家和联合国官员表示，自去年6月美国和以色列对关键设施进行打击以来，伊朗的核计划基本停滞。",
@@ -314,7 +359,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -341,15 +386,37 @@
           "time_info": "03时19分"
         },
         {
+          "title": "中方回应“会否支持伊朗抵御美攻击”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E4%BC%9A%E5%90%A6%E6%94%AF%E6%8C%81%E4%BC%8A%E6%9C%97%E6%8A%B5%E5%BE%A1%E7%BE%8E%E6%94%BB%E5%87%BB%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
           "title": "阿曼外交部：外交部长在日内瓦与国际原子能机构总干事格罗西举行了会议，讨论与伊朗核问题相关的技术事务，并就伊朗与美国之间目前正在谈判的新想法进行意见交流。",
           "url": "https://flash.jin10.com/detail/20260226160237755800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
+        },
+        {
+          "title": "伊朗外交部：本轮伊美谈判聚焦核问题",
+          "url": "https://wallstreetcn.com/livenews/3059449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         }
       ]
     },
@@ -411,11 +478,12 @@
           "ranks": [
             10,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时22分 ~ 16时53分]"
+          "appearance_count": 6,
+          "time_info": "[10时22分 ~ 17时54分]"
         },
         {
           "title": "乌克兰总统顾问：泽连斯基与特朗普举行电话会谈，会谈已结束。",
@@ -449,8 +517,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时01分 ~ 16时53分]"
+          "appearance_count": 4,
+          "time_info": "[14时01分 ~ 17时54分]"
         },
         {
           "title": "阿斯顿马丁将裁员至多20%，来应对美国总统特朗普挑起的关税所造成的复杂形势。",
@@ -487,6 +555,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时40分]"
+        },
+        {
+          "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32655137",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时54分]"
         },
         {
           "title": "特朗普把国情咨文演讲开成吹牛大会",
@@ -578,17 +658,6 @@
           "time_info": "03时19分"
         },
         {
-          "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32655137",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
           "title": "美媒：特朗普告诉泽连斯基让冲突一个月内结束",
           "url": "https://wallstreetcn.com/livenews/3059242",
           "source": "华尔街见闻-快讯",
@@ -625,7 +694,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
@@ -648,8 +717,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时34分 ~ 16时53分]"
+          "appearance_count": 8,
+          "time_info": "[07时34分 ~ 17时54分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
@@ -777,6 +846,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "百度美股盘前跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3059459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         },
         {
           "title": "半导体ETF涨1.63%，全球科技股指数ETF涨1.07%，科技行业ETF涨0.88%，在美股盘初领跑行业ETF。",
@@ -1073,11 +1153,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%B3%B0%E5%9B%BD%E6%9C%BA%E5%9C%BA1110%E5%85%83%E9%87%91%E4%BB%B7%E4%B9%B0%E4%BA%86%E5%91%A8%E5%A4%A7%E7%A6%8F",
           "source": "百度热搜",
           "ranks": [
-            30
+            30,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时54分]"
         }
       ]
     },
