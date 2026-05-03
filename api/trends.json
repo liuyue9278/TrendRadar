@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T07:48:49.142426+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-05-03T11:29:03.461708+08:00",
+  "total_titles_processed": 687,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 34,
       "titles": [
         {
           "title": "伊朗新谈判方案重创原油，科技股助标普再新高、创一年半最长周涨，日元反弹暂歇但全周走强",
@@ -28,11 +28,12 @@
             6,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时48分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 11时29分]"
         },
         {
           "title": "伊朗战争丨美媒急了：美军短板暴露了，对手正近距观察",
@@ -84,18 +85,6 @@
           "time_info": "[05时44分 ~ 07时48分]"
         },
         {
-          "title": "伊媒曝伊朗提案的核心条件 伊要求30天内解决问题",
-          "url": "https://flash.jin10.com/detail/20260503045136842800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时44分 ~ 07时48分]"
-        },
-        {
           "title": "伊朗副外长：球在美国一边，做好两手准备",
           "url": "https://wallstreetcn.com/livenews/3098186",
           "source": "华尔街见闻-快讯",
@@ -114,22 +103,59 @@
           "ranks": [
             2,
             4,
-            8
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时45分 ~ 11时29分]"
+        },
+        {
+          "title": "伊朗副外长：球在美国一边，做好两手准备",
+          "url": "https://news.ifeng.com/c/8soLPWxz4Pu",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时48分 ~ 11时29分]"
+        },
+        {
+          "title": "伊媒曝伊朗提案的核心条件 伊要求30天内解决问题",
+          "url": "https://flash.jin10.com/detail/20260503045136842800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            5,
+            25
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[04时45分 ~ 07时48分]"
+          "time_info": "[05时44分 ~ 11时29分]"
         },
         {
-          "title": "伊朗媒体披露伊方最新谈判方案：14点提议 聚焦终战",
-          "url": "https://flash.jin10.com/detail/20260503055401582800",
-          "source": "金十数据",
+          "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
+          "url": "https://www.cls.cn/detail/2362210",
+          "source": "财联社热门",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时45分 ~ 07时48分]"
+          "time_info": "[11时28分 ~ 11时29分]"
+        },
+        {
+          "title": "美媒称伊朗不要求直接谈判前解除霍尔木兹海峡封锁",
+          "url": "https://flash.jin10.com/detail/20260503101653816800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
         },
         {
           "title": "伊朗和意大利外长通话 意方呼吁加紧外交斡旋",
@@ -137,22 +163,35 @@
           "source": "金十数据",
           "ranks": [
             2,
-            6
+            6,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时44分 ~ 07时48分]"
+          "appearance_count": 4,
+          "time_info": "[05时44分 ~ 11时29分]"
         },
         {
-          "title": "伊朗副外长：球在美国一边，做好两手准备",
-          "url": "https://news.ifeng.com/c/8soLPWxz4Pu",
-          "source": "凤凰网",
+          "title": "伊朗提案包括要求结束美国海军封锁，伊朗提议为重新开放霍尔木兹海峡的协议设一个月期限。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3098230",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时48分"
+          "time_info": "11时29分"
+        },
+        {
+          "title": "伊朗媒体披露伊方最新谈判方案：14点提议 聚焦终战",
+          "url": "https://flash.jin10.com/detail/20260503055401582800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时45分 ~ 11时29分]"
         },
         {
           "title": "伊朗军方官员：已为美方军事冒险做好充分准备",
@@ -234,6 +273,30 @@
           "time_info": "[00时53分 ~ 04时45分]"
         },
         {
+          "title": "伊朗公布伊方最新谈判方案",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E4%BC%8A%E6%96%B9%E6%9C%80%E6%96%B0%E8%B0%88%E5%88%A4%E6%96%B9%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时48分 ~ 11时29分]"
+        },
+        {
+          "title": "美学者称伊朗战争让所有人成输家",
+          "url": "https://www.toutiao.com/trending/7634351083892064262/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时48分 ~ 11时29分]"
+        },
+        {
           "title": "商务部新闻发言人就阻断美国对5家中国企业实施涉伊朗石油制裁措施答记者问",
           "url": "https://wallstreetcn.com/livenews/3098146",
           "source": "华尔街见闻-快讯",
@@ -244,6 +307,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时53分 ~ 03时04分]"
+        },
+        {
+          "title": "伊朗战争丨美媒：关于美伊谈判，伊朗放弃了一个前提",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 11时29分]"
+        },
+        {
+          "title": "伊朗最新提出14点终战提议",
+          "url": "https://www.toutiao.com/trending/7635059597182828607/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 11时29分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 65 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2034041465198703020",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 11时29分]"
         },
         {
           "title": "美国威胁制裁向伊朗缴通行费的航运企业",
@@ -258,15 +354,15 @@
           "time_info": "[00时53分 ~ 01时47分]"
         },
         {
-          "title": "伊朗公布伊方最新谈判方案",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E4%BC%8A%E6%96%B9%E6%9C%80%E6%96%B0%E8%B0%88%E5%88%A4%E6%96%B9%E6%A1%88",
-          "source": "百度热搜",
+          "title": "伊朗批美国在核问题上霸道且虚伪",
+          "url": "https://www.toutiao.com/trending/7634594707641303076/",
+          "source": "今日头条",
           "ranks": [
-            6
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 11时29分]"
         },
         {
           "title": "伊朗战争丨伊方公布最新谈判方案",
@@ -280,21 +376,54 @@
           "time_info": "06时45分"
         },
         {
-          "title": "美学者称伊朗战争让所有人成输家",
-          "url": "https://www.toutiao.com/trending/7634351083892064262/",
-          "source": "今日头条",
+          "title": "美媒称伊朗不要求直接谈判前解除霍尔木兹海峡封锁",
+          "url": "https://wallstreetcn.com/livenews/3098228",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时48分"
+          "time_info": "11时29分"
+        },
+        {
+          "title": "伊朗常驻联合国代表团：美国公然违反《不扩散核武器条约》",
+          "url": "https://wallstreetcn.com/livenews/3098214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
+          "title": "伊朗外长与日本外务大臣通话 讨论美以伊停火进展",
+          "url": "https://wallstreetcn.com/livenews/3098204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
+          "title": "伊朗副议长：议会将批准“霍尔木兹海峡管理法”",
+          "url": "https://wallstreetcn.com/livenews/3098202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 29,
       "titles": [
         {
           "title": "伊朗转交新方案，“放宽谈判条件”，特朗普称“不满意”，但“倾向于不打击”",
@@ -312,11 +441,12 @@
           "url": "https://www.cls.cn/detail/2362040",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时48分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 11时29分]"
         },
         {
           "title": "新战线突然开辟，特朗普怒率美国“两线作战”",
@@ -348,11 +478,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时48分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 11时29分]"
         },
         {
           "title": "特朗普谈美军扣押伊朗油轮：我们就像海盗",
@@ -360,11 +491,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时48分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 11时29分]"
         },
         {
           "title": "特朗普宣布将于下周对欧盟输美汽车和卡车加征 25% 关税，他为何对欧洲下「狠手」？",
@@ -378,25 +510,26 @@
           "time_info": "[00时53分 ~ 07时48分]"
         },
         {
-          "title": "伊朗战争会再次影响访华行程吗？特朗普答凤凰记者问",
-          "url": "https://news.ifeng.com/c/8snAXIe1Bbr",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时45分]"
-        },
-        {
           "title": "规避《战争权力法》？特朗普称对伊行动结束，但仍有法律争议",
           "url": "https://m.thepaper.cn/newsDetail_forward_33092022",
           "source": "澎湃新闻",
           "ranks": [
             17,
             18,
-            19
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 11时29分]"
+        },
+        {
+          "title": "伊朗战争会再次影响访华行程吗？特朗普答凤凰记者问",
+          "url": "https://news.ifeng.com/c/8snAXIe1Bbr",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -433,11 +566,12 @@
           "ranks": [
             3,
             5,
-            9
+            9,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时45分 ~ 07时48分]"
+          "appearance_count": 5,
+          "time_info": "[04时45分 ~ 11时29分]"
         },
         {
           "title": "特朗普政府加速推进向中东出售86亿美元武器",
@@ -453,6 +587,29 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时47分 ~ 07时48分]"
+        },
+        {
+          "title": "伊朗：特朗普吹嘘行事如海盗是直接承认犯罪",
+          "url": "https://news.ifeng.com/c/8sovlG2f5ZT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 11时29分]"
+        },
+        {
+          "title": "特朗普：美国有可能重启对伊朗空袭",
+          "url": "https://news.ifeng.com/c/8soZ3usJcy6",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时48分 ~ 11时29分]"
         },
         {
           "title": "特朗普金卡计划为何失败",
@@ -515,32 +672,109 @@
           "time_info": "[00时53分 ~ 03时04分]"
         },
         {
+          "title": "特朗普炫耀从委内瑞拉获得 2 亿桶石油，已赚回出兵成本的 37 倍，数据可信吗？这一表态背后有何意图？",
+          "url": "https://www.zhihu.com/question/2034052667509621790",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 11时29分]"
+        },
+        {
           "title": "伊朗战争丨伊方公布最新谈判方案，特朗普回应",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
         },
         {
-          "title": "特朗普：美国有可能重启对伊朗空袭",
-          "url": "https://news.ifeng.com/c/8soZ3usJcy6",
-          "source": "凤凰网",
+          "title": "伊朗外交部发言人：特朗普吹嘘行事如“海盗”是对犯罪的直接承认",
+          "url": "https://flash.jin10.com/detail/20260503094347765800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时48分"
+          "time_info": "11时29分"
+        },
+        {
+          "title": "伊朗外交部发言人：特朗普吹嘘行事如“海盗”是对犯罪的直接承认",
+          "url": "https://wallstreetcn.com/livenews/3098221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
+          "title": "特朗普说有可能重启对伊朗空袭",
+          "url": "https://flash.jin10.com/detail/20260503081040091800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
+          "title": "特朗普称将审查伊朗提出的结束冲突新方案",
+          "url": "https://wallstreetcn.com/livenews/3098201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
+          "title": "特朗普称从德国撤军规模将远超5000人",
+          "url": "https://wallstreetcn.com/livenews/3098200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
+          "title": "特朗普称美国有可能重启对伊朗空袭",
+          "url": "https://wallstreetcn.com/livenews/3098199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
+          "title": "特朗普威胁称伊朗“尚未付出足够大代价”",
+          "url": "https://wallstreetcn.com/livenews/3098198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
@@ -560,11 +794,23 @@
           "ranks": [
             1,
             3,
-            7
+            7,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时45分 ~ 07时48分]"
+          "appearance_count": 5,
+          "time_info": "[04时45分 ~ 11时29分]"
+        },
+        {
+          "title": "用ChatGPT还原盗墓笔记的世界",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%A8ChatGPT%E8%BF%98%E5%8E%9F%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0%E7%9A%84%E4%B8%96%E7%95%8C&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 11时29分]"
         },
         {
           "title": "马斯克手撕OpenAI为哪般",
@@ -601,11 +847,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时03分 ~ 07时48分]"
+          "appearance_count": 9,
+          "time_info": "[03时03分 ~ 11时29分]"
         }
       ]
     },
@@ -625,8 +872,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时48分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 11时29分]"
         }
       ]
     }
