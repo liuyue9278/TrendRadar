@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T14:32:24.401871+08:00",
-  "total_titles_processed": 988,
+  "generated_at": "2026-05-06T17:25:29.972166+08:00",
+  "total_titles_processed": 1155,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 64,
+      "match_count": 71,
       "titles": [
         {
           "title": "伊朗外长阿拉格齐将访华",
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时36分 ~ 14时32分]"
+          "appearance_count": 11,
+          "time_info": "[01时36分 ~ 17时25分]"
         },
         {
           "title": "美防长：与伊朗的停火尚未结束",
@@ -72,6 +72,18 @@
           "time_info": "[01时36分 ~ 07时57分]"
         },
         {
+          "title": "伊朗总统办公室主任：总统与革命卫队指挥官不存在分歧",
+          "url": "https://news.ifeng.com/c/8stHYQTNeqN",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时57分 ~ 17时25分]"
+        },
+        {
           "title": "【早报】伊朗称“击中了一艘美军舰”，美军否认；豆包将推出付费订阅版本",
           "url": "https://www.cls.cn/detail/2362714",
           "source": "财联社热门",
@@ -82,6 +94,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时36分 ~ 07时57分]"
+        },
+        {
+          "title": "【早报】鲁比奥确认：对伊朗“史诗怒火”军事行动已结束；伊朗外长今日访华",
+          "url": "https://www.cls.cn/detail/2363208",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 17时25分]"
         },
         {
           "title": "伊朗向美舰发射导弹视频曝光",
@@ -127,27 +150,26 @@
           "time_info": "[01时36分 ~ 07时57分]"
         },
         {
-          "title": "伊朗总统办公室主任：总统与革命卫队指挥官不存在分歧",
-          "url": "https://news.ifeng.com/c/8stHYQTNeqN",
+          "title": "“严厉训斥、愤怒回击”，美英财长为伊朗战事当面交锋",
+          "url": "https://news.ifeng.com/c/8st8jNjoFNK",
           "source": "凤凰网",
           "ranks": [
-            2,
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时57分 ~ 14时32分]"
+          "time_info": "[11时28分 ~ 17时25分]"
         },
         {
-          "title": "【早报】鲁比奥确认：对伊朗“史诗怒火”军事行动已结束；伊朗外长今日访华",
-          "url": "https://www.cls.cn/detail/2363208",
-          "source": "财联社热门",
+          "title": "伊朗最大岛屿传出巨响",
+          "url": "https://news.ifeng.com/c/8su7EjBss9v",
+          "source": "凤凰网",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时28分 ~ 14时32分]"
+          "time_info": "[14时32分 ~ 17时25分]"
         },
         {
           "title": "伊朗外长身穿休闲装抵达北京",
@@ -156,17 +178,6 @@
           "ranks": [
             4,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 14时32分]"
-        },
-        {
-          "title": "“严厉训斥、愤怒回击”，美英财长为伊朗战事当面交锋",
-          "url": "https://news.ifeng.com/c/8st8jNjoFNK",
-          "source": "凤凰网",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -195,28 +206,6 @@
           "time_info": "01时37分"
         },
         {
-          "title": "伊朗外长抵京时身穿休闲装",
-          "url": "https://www.toutiao.com/trending/7636613941229063730/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "伊朗最大岛屿传出巨响",
-          "url": "https://news.ifeng.com/c/8su7EjBss9v",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
           "title": "美国国务卿鲁比奥：伊朗必须回到谈判桌上并接受条款。",
           "url": "https://flash.jin10.com/detail/20260506032026889800",
           "source": "金十数据",
@@ -226,6 +215,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
+        },
+        {
+          "title": "韩国船只爆炸起火同伊朗无关",
+          "url": "https://wallstreetcn.com/livenews/3099270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "美国国务卿鲁比奥：伊朗总贸易量的90%已被中断。",
@@ -250,6 +250,32 @@
           "time_info": "03时33分"
         },
         {
+          "title": "伊朗外长抵京时身穿休闲装",
+          "url": "https://www.toutiao.com/trending/7636613941229063730/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 17时25分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 68 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035126415859742260",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时57分 ~ 17时25分]"
+        },
+        {
           "title": "王毅同伊朗外长阿拉格齐会谈",
           "url": "https://www.toutiao.com/trending/7636594621790817802/",
           "source": "今日头条",
@@ -271,19 +297,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时00分 ~ 07时57分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 68 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2035126415859742260",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时57分 ~ 14时32分]"
         },
         {
           "title": "美称对伊军事行动结束 伊朗否认",
@@ -354,6 +367,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 07时57分]"
+        },
+        {
+          "title": "王毅同伊朗外长阿拉格齐会谈",
+          "url": "https://news.ifeng.com/c/8suIT3dG9dH",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "美国国务卿鲁比奥：美国军队在霍尔木兹海峡摧毁了7艘伊朗快艇。",
@@ -444,6 +468,28 @@
           "time_info": "01时37分"
         },
         {
+          "title": "报道：美国和伊朗即将达成协议 以结束战争",
+          "url": "https://wallstreetcn.com/livenews/3099260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "王毅同伊朗外长阿拉格齐会谈",
+          "url": "https://www.cls.cn/detail/2363664",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "伊朗总统：美国正对伊采取“极限施压”",
           "url": "https://wallstreetcn.com/livenews/3098897",
           "source": "华尔街见闻-快讯",
@@ -475,6 +521,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
+        },
+        {
+          "title": "伊朗官员：霍尔木兹海峡的安全只能由伊朗及其人民来保障",
+          "url": "https://wallstreetcn.com/livenews/3099255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "据阿联酋国家新闻机构：阿联酋总统接到包括以色列总理内塔尼亚胡在内的多位领导人的电话，谴责伊朗对阿联酋的攻击，并表示支持阿联酋为维护安全所采取的措施。",
@@ -582,9 +639,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "伊朗逐步恢复高校国际互联网访问",
+          "url": "https://wallstreetcn.com/livenews/3099244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "伊朗警告霍尔木兹海峡通行船只：偏离指定航道将面临“坚决回应”",
@@ -730,6 +798,17 @@
           "time_info": "05时07分"
         },
         {
+          "title": "伊朗外长与沙特阿拉伯外交大臣通话 讨论地区局势",
+          "url": "https://wallstreetcn.com/livenews/3099233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "伊朗外长：美国应避免被再次拖入泥潭",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%BA%94%E9%81%BF%E5%85%8D%E8%A2%AB%E5%86%8D%E6%AC%A1%E6%8B%96%E5%85%A5%E6%B3%A5%E6%BD%AD",
           "source": "百度热搜",
@@ -744,7 +823,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "美媒：美伊冲突久拖不决，特朗普访华时的筹码将被削弱",
@@ -826,6 +905,28 @@
           "time_info": "[01时36分 ~ 07时57分]"
         },
         {
+          "title": "伊朗怎样才算违反停火？特朗普避而不谈",
+          "url": "https://news.ifeng.com/c/8su3Btl2lle",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 17时25分]"
+        },
+        {
+          "title": "中方再回应特朗普访华",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%86%8D%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "伊朗战争丨特朗普：霍尔木兹海峡“自由行动”将暂停",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -843,9 +944,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "伊朗战争丨以总理或再访美劝特朗普重启战争",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "美国国务卿鲁比奥：美国特使威特科夫和特朗普女婿库什纳正在努力推动外交进程。",
@@ -906,38 +1018,40 @@
           "time_info": "07时57分"
         },
         {
-          "title": "伊朗怎样才算违反停火？特朗普避而不谈",
-          "url": "https://news.ifeng.com/c/8su3Btl2lle",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
           "title": "美伊局势追踪：特朗普称暂停“自由计划”行动 对于战争状态双方各执一词",
           "url": "https://www.cls.cn/detail/2363248",
           "source": "财联社热门",
           "ranks": [
             12,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 17时25分]"
+        },
+        {
+          "title": "以媒：特朗普近日一度考虑恢复空袭伊朗",
+          "url": "https://news.ifeng.com/c/8stlzh9o2wc",
+          "source": "凤凰网",
+          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时28分 ~ 14时32分]"
+          "time_info": "[14时32分 ~ 17时25分]"
         },
         {
           "title": "特朗普称暂停自由计划行动",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9A%82%E5%81%9C%E8%87%AA%E7%94%B1%E8%AE%A1%E5%88%92%E8%A1%8C%E5%8A%A8",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 17时25分]"
         },
         {
           "title": "特朗普承认自己曾“不得不”常买中国货",
@@ -962,17 +1076,6 @@
           "time_info": "07时57分"
         },
         {
-          "title": "以媒：特朗普近日一度考虑恢复空袭伊朗",
-          "url": "https://news.ifeng.com/c/8stlzh9o2wc",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
           "title": "美国宣布对伊“攻势结束”，特朗普突然叫停“自由计划”",
           "url": "https://flash.jin10.com/detail/20260506071632515800",
           "source": "金十数据",
@@ -995,6 +1098,17 @@
           "time_info": "07时57分"
         },
         {
+          "title": "特朗普称暂停“自由计划”行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33100608",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "特朗普称疏导霍尔木兹海峡行动暂停",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%96%8F%E5%AF%BC%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E8%A1%8C%E5%8A%A8%E6%9A%82%E5%81%9C%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -1004,6 +1118,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "特朗普建议中国停止进口伊朗原油，外交部：能源政策建议向有关方面了解",
+          "url": "https://wallstreetcn.com/livenews/3099254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "特朗普：与伊朗方面取得进展，“自由计划”将在短期内暂停",
@@ -1056,7 +1181,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -1086,7 +1211,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
@@ -1113,6 +1238,19 @@
           "time_info": "[01时36分 ~ 07时57分]"
         },
         {
+          "title": "美股收盘：标普、纳指再创新高 美光、英特尔涨幅均超10%",
+          "url": "https://www.cls.cn/detail/2363187",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 17时25分]"
+        },
+        {
           "title": "美伊局势暂趋缓和，美股期指齐涨，半导体股走强，英特尔涨超4%，WTI油价跌超2%",
           "url": "https://wallstreetcn.com/articles/3771589",
           "source": "华尔街见闻",
@@ -1125,16 +1263,16 @@
           "time_info": "[01时36分 ~ 05时07分]"
         },
         {
-          "title": "美股收盘：标普、纳指再创新高 美光、英特尔涨幅均超10%",
-          "url": "https://www.cls.cn/detail/2363187",
+          "title": "美股光模块巨头公布强劲财报 公司CEO：订单已排到2028年！",
+          "url": "https://www.cls.cn/detail/2363413",
           "source": "财联社热门",
           "ranks": [
-            4,
-            3
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时28分 ~ 14时32分]"
+          "time_info": "[14时32分 ~ 17时25分]"
         },
         {
           "title": "AMD美股盘后涨幅扩大至15.24%，最高达到409.40美元。",
@@ -1147,17 +1285,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 07时57分]"
-        },
-        {
-          "title": "美股光模块巨头公布强劲财报 公司CEO：订单已排到2028年！",
-          "url": "https://www.cls.cn/detail/2363413",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
         },
         {
           "title": "美股大类资产类ETF多数收涨，新兴市场ETF涨2%，布油基金跌超3.2%",
@@ -1180,6 +1307,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
+        },
+        {
+          "title": "美股股指期货短线拉升，纳指期货涨超1%。欧洲斯托克600指数上涨2.3%。 国际油价走低，布伦特原油跌破103美元/桶，报102.84美元/桶。 美元指数日内跌0.68%，报97.82点。 美国10年期国债收益率下行6个基点，创一周新低；德国10年期国债收益率下行8.5个基点至2.95%。 市场减少对欧洲央行加息的押注，预计12月存款利率为2.62%，早些时候为2.71%。",
+          "url": "https://wallstreetcn.com/livenews/3099261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "Strategy一季度营收1.243亿美元，IBES预期0.0494亿美元。 一季度每股收益（EPS）为38.25美元，IBES预期美股亏损0.17美元。 一季度运营亏损包含数字资产未实现的亏损144.6亿美元。 MSTR美股盘后跌1.3%，报184.46美元。",
@@ -1444,8 +1582,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 14时32分]"
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 17时25分]"
         },
         {
           "title": "Anthropic PBC承诺，将在谷歌公司云服务和芯片上投资2000亿美元。（The Information）",
@@ -1550,8 +1688,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "如果有游戏将所有氪金价格变为十分之一，会不会迎来盈利大涨？「1 人充 100 元」和「100 人充 1 元」谁赢？",
+          "url": "https://www.zhihu.com/question/2032416656081802662",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
         {
           "title": "金价跳水是机会还是坑",
           "url": "https://www.toutiao.com/trending/7636354274716290614/",
@@ -1659,7 +1808,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         }
