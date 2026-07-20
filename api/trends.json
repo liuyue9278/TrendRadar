@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T14:49:55.496158+08:00",
-  "total_titles_processed": 1078,
+  "generated_at": "2026-07-20T18:14:37.728461+08:00",
+  "total_titles_processed": 1272,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 71,
+      "match_count": 74,
       "titles": [
         {
           "title": "伊朗导弹击中美军基地，火光四溅，有人大喊快撤",
@@ -46,6 +46,17 @@
           "time_info": "[00时02分 ~ 14时49分]"
         },
         {
+          "title": "以军总参谋长：已做好立即恢复对伊朗作战准备",
+          "url": "https://news.ifeng.com/c/8utlf4xmVvT",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 18时14分]"
+        },
+        {
           "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
           "url": "https://www.cls.cn/detail/2430332",
           "source": "财联社热门",
@@ -59,15 +70,15 @@
           "time_info": "[00时02分 ~ 06时55分]"
         },
         {
-          "title": "以军总参谋长：已做好立即恢复对伊朗作战准备",
-          "url": "https://news.ifeng.com/c/8utlf4xmVvT",
+          "title": "哈梅内伊遇袭预案代号曝光，伊朗外长哽咽披露细节",
+          "url": "https://news.ifeng.com/c/8uuQFo0n9YS",
           "source": "凤凰网",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时54分 ~ 14时49分]"
+          "time_info": "[11时55分 ~ 18时14分]"
         },
         {
           "title": "伊朗让美军付出重大代价",
@@ -81,15 +92,15 @@
           "time_info": "[00时02分 ~ 00时03分]"
         },
         {
-          "title": "哈梅内伊遇袭预案代号曝光，伊朗外长哽咽披露细节",
-          "url": "https://news.ifeng.com/c/8uuQFo0n9YS",
+          "title": "伊朗外长：美国曾试图“收买”我们，我当场拒绝",
+          "url": "https://news.ifeng.com/c/8uuXB95ZA03",
           "source": "凤凰网",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时55分 ~ 14时49分]"
+          "time_info": "[14时49分 ~ 18时14分]"
         },
         {
           "title": "伊朗前外长建议出动地面部队，夺取美军驻中东基地",
@@ -109,7 +120,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
         },
@@ -123,17 +134,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
-        },
-        {
-          "title": "伊朗外长：美国曾试图“收买”我们，我当场拒绝",
-          "url": "https://news.ifeng.com/c/8uuXB95ZA03",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时49分"
         },
         {
           "title": "科威特军方：科威特防空部队目前正应对敌方无人机的攻击。此次攻击源于伊朗的敌对行为。",
@@ -567,13 +567,24 @@
           "time_info": "[01时59分 ~ 03时19分]"
         },
         {
+          "title": "伊朗司法总监：我们必须比以往任何时候都更加警惕那些煽动者、谣言散布者、伪善者和渗透者。",
+          "url": "https://flash.jin10.com/detail/20260720180438856800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
           "title": "美国两次空袭击中伊朗布什尔。（法尔斯通讯社）",
           "url": "https://wallstreetcn.com/livenews/3136637",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
         },
@@ -628,7 +639,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
         },
@@ -710,13 +721,24 @@
           "time_info": "00时03分"
         },
         {
+          "title": "伊朗司法总监：那些被派往前线、战场和街头的人们强调，必须继续开展圣战，打击侵略成性、背信弃义的敌人，并已举起复仇的旗帜。国家官员之间不存在分歧，都认为美国敌人绝无信誉可言；我们绝不会以任何方式向其屈服，并将坚持到底。",
+          "url": "https://flash.jin10.com/detail/20260720175441234800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
           "title": "据伊朗劳工通讯社：伊斯法罕传出的爆炸声与针对未爆弹药的受控爆破作业有关。",
           "url": "https://flash.jin10.com/detail/20260720142807277800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
         },
@@ -738,7 +760,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
         },
@@ -760,7 +782,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
         },
@@ -782,7 +804,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
         },
@@ -796,6 +818,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "伊拉克民兵武装就美袭击伊朗发声",
+          "url": "https://www.toutiao.com/trending/7664146504593260563/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "美国打伊朗越打越尴尬",
@@ -834,7 +867,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "美国援外大转向：特朗普要向欧洲输出“MAGA”",
@@ -871,6 +904,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时53分 ~ 06时55分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-20）",
+          "url": "https://flash.jin10.com/detail/20260720180937404800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "特朗普：痛击伊朗，为身亡美军报仇",
@@ -1026,24 +1070,25 @@
           "time_info": "[00时03分 ~ 03时19分]"
         },
         {
+          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 18时14分]"
+        },
+        {
           "title": "特朗普称新空军一号将升级改造",
           "url": "https://wallstreetcn.com/livenews/3136636",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时49分"
-        },
-        {
-          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
         },
@@ -1101,6 +1146,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "特朗普隔着防弹玻璃现场看世界杯决赛",
+          "url": "https://www.toutiao.com/trending/7664367574197469203/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         }
       ]
     },
@@ -1152,7 +1208,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
         },
@@ -1163,7 +1219,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
         }
@@ -1171,8 +1227,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "花旗：美股“科技7巨头”的标签已经过时",
+          "url": "https://flash.jin10.com/detail/20260720180357146800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
         {
           "title": "7月20日投资避雷针：上周五美股三大指数集体收跌 费城半导体指数进入技术性熊市",
           "url": "https://www.cls.cn/detail/2430704",
@@ -1180,7 +1247,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
         },
@@ -1196,13 +1263,24 @@
           "time_info": "06时55分"
         },
         {
+          "title": "花旗：在人工智能股票赢家中，美股“科技7巨头”的标签已经过时。",
+          "url": "https://flash.jin10.com/detail/20260720175653296800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
           "title": "高盛：美股指数看似平静，个股和债市已提前起风？",
           "url": "https://flash.jin10.com/detail/20260720141241061800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
         }
@@ -1232,8 +1310,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 14时49分]"
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 18时14分]"
         }
       ]
     },
@@ -1264,7 +1342,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
         }
