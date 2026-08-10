@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T13:40:08.731164+08:00",
-  "total_titles_processed": 968,
+  "generated_at": "2026-08-10T15:45:21.155636+08:00",
+  "total_titles_processed": 1121,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 33,
       "titles": [
         {
           "title": "伊朗婉转回应最高领袖病危传闻",
@@ -53,11 +53,23 @@
             2,
             18,
             25,
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时37分 ~ 13时40分]"
+          "appearance_count": 18,
+          "time_info": "[00时37分 ~ 15时45分]"
+        },
+        {
+          "title": "伊朗高层变动，最高领袖发出新任命",
+          "url": "https://news.ifeng.com/c/8vSqCKLbBLT",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 15时45分]"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
@@ -69,17 +81,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时37分 ~ 07时33分]"
-        },
-        {
-          "title": "伊朗高层变动，最高领袖发出新任命",
-          "url": "https://news.ifeng.com/c/8vSqCKLbBLT",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时55分 ~ 13时40分]"
         },
         {
           "title": "俄媒称伊朗布什尔核电站新机组建设仍在继续",
@@ -96,6 +97,17 @@
           "time_info": "[00时38分 ~ 07时33分]"
         },
         {
+          "title": "伊朗密集更换高层，释放何种信号？",
+          "url": "https://news.ifeng.com/c/8vTT2C4rKru",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时39分 ~ 15时45分]"
+        },
+        {
           "title": "伊朗议会批准霍尔木兹海峡安全纲要",
           "url": "https://news.ifeng.com/c/8vSazQ4m4p1",
           "source": "凤凰网",
@@ -107,26 +119,27 @@
           "time_info": "[09时55分 ~ 09时56分]"
         },
         {
-          "title": "伊朗密集更换高层，释放何种信号？",
-          "url": "https://news.ifeng.com/c/8vTT2C4rKru",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时39分 ~ 13时40分]"
-        },
-        {
           "title": "美军基地遭袭，伊朗公布最新卫星对比图",
           "url": "https://news.ifeng.com/c/8vT6dxUIQom",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时55分 ~ 13时40分]"
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 15时45分]"
+        },
+        {
+          "title": "伊朗外交部发言人：与阿曼的谈判富有建设性且积极。",
+          "url": "https://flash.jin10.com/detail/20260810154228229800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "伊朗总统：愿保持沟通，但绝不会坐等任何外部势力",
@@ -155,6 +168,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时43分 ~ 05时34分]"
+        },
+        {
+          "title": "伊朗的5个条件，美国是否会照单全收？",
+          "url": "https://news.ifeng.com/c/8vTVeZD1iIn",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "据伊通社（IRNA）：伊朗总统府负责新闻与通信事务的副主任宣布，伊朗最高领袖穆杰塔巴任命穆赫辛·雷扎伊为其在国家安全委员会的代表。",
@@ -298,6 +322,17 @@
           "time_info": "[00时37分 ~ 00时38分]"
         },
         {
+          "title": "伊朗外交部发言人：与阿曼的谈判旨在确定霍尔木兹海峡的航行路线。",
+          "url": "https://flash.jin10.com/detail/20260810153945438800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
           "title": "伊朗在谈判关键时刻撤换最高安全官员",
           "url": "https://flash.jin10.com/detail/20260810064649628800",
           "source": "金十数据",
@@ -320,6 +355,17 @@
           "time_info": "07时33分"
         },
         {
+          "title": "伊朗外交部发言人：（就麦加防御协定回应称）过去三年间，地区各国已意识到，安全绝非是可以从欺诈性中间商那里购买的商品。任何基于现实、正确识别敌人与威胁的计划，都有助于维护地区安全，并防止以色列制造动荡。",
+          "url": "https://flash.jin10.com/detail/20260810152449467800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
           "title": "伊朗高层重要人事变动",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%AB%98%E5%B1%82%E9%87%8D%E8%A6%81%E4%BA%BA%E4%BA%8B%E5%8F%98%E5%8A%A8%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -331,13 +377,24 @@
           "time_info": "05时34分"
         },
         {
+          "title": "伊朗外交部发言人：我们呼吁地区各国在没有外部势力介入的情况下加强关系、增进互信并维护安全。",
+          "url": "https://flash.jin10.com/detail/20260810152044806800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
           "title": "伊朗机场公司首席执行官：尽管遭受重大破坏，但受战争影响的机场已恢复运营。",
           "url": "https://flash.jin10.com/detail/20260810122646591800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         },
@@ -356,7 +413,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -379,8 +436,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时33分 ~ 13时40分]"
+          "appearance_count": 16,
+          "time_info": "[01时33分 ~ 15时45分]"
         },
         {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
@@ -403,8 +460,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时55分 ~ 13时40分]"
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 15时45分]"
         },
         {
           "title": "特朗普公布新任总统助理人选",
@@ -418,6 +475,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时55分 ~ 13时40分]"
+        },
+        {
+          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
+          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 15时45分]"
         },
         {
           "title": "霍尔木兹协议临门一脚却卡死：伊朗抬高条件，特朗普突然降调改打“耐心牌”",
@@ -454,18 +523,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时34分 ~ 04时35分]"
-        },
-        {
-          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
-          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时55分 ~ 13时40分]"
         },
         {
           "title": "美国总统特朗普：自9月1日起，威尔·沙夫将接替大卫·沃灵顿，成为总统助理兼白宫法律顾问。",
@@ -507,6 +564,17 @@
           "time_info": "[03时35分 ~ 05时34分]"
         },
         {
+          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
+          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时58分 ~ 15时45分]"
+        },
+        {
           "title": "据英国金融时报：前美国安全官员警告，美国总统特朗普正在拆除美国的防护屏障。",
           "url": "https://flash.jin10.com/detail/20260810025259260800",
           "source": "金十数据",
@@ -518,17 +586,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时35分 ~ 05时34分]"
-        },
-        {
-          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
-          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时58分 ~ 13时40分]"
         },
         {
           "title": "F-16拦截特朗普高尔夫俱乐部附近两架违规飞机",
@@ -555,15 +612,37 @@
           "time_info": "[00时38分 ~ 01时34分]"
         },
         {
+          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
           "title": "内塔尼亚胡算了一笔账：惹怒特朗普，竟成他眼下“最不坏的选择”",
           "url": "https://flash.jin10.com/detail/20260810123837709800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
+        },
+        {
+          "title": "前美国官员：特朗普使美国安全恶化",
+          "url": "https://www.toutiao.com/trending/7671249968112173098/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
@@ -583,7 +662,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         },
@@ -622,11 +701,12 @@
           "ranks": [
             10,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时35分 ~ 13时40分]"
+          "appearance_count": 13,
+          "time_info": "[03时35分 ~ 15时45分]"
         },
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
@@ -659,7 +739,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         }
@@ -692,11 +772,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时58分 ~ 13时40分]"
+          "appearance_count": 4,
+          "time_info": "[11时58分 ~ 15时45分]"
         }
       ]
     },
